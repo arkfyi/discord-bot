@@ -8,8 +8,6 @@ Are you an [ARK](https://ark-funds.com/) investor? ARK FYI may just be what you 
 
 Each channel can also set up its own watchlist. Channels with a watchlist will receive trade notifications from the bot every day after market close.
 
-*You can also talk to the bot directly in a private channel and configure a watchlist just for yourself.*
-
 ### Set up watchlist to get daily notifications
 
 If you have the "Manage Channels" permission, you can use the following commands to view and edit *per-channel* watchlists:
@@ -21,6 +19,8 @@ If you have the "Manage Channels" permission, you can use the following commands
 `!ark +SYMBOL` to add symbol to watchlist
 
 `!ark -SYMBOL` to remove symbol from watchlist
+
+*You can also talk to the bot directly in a private channel and configure a watchlist just for yourself.*
 
 Here's a sample notification:
 
